@@ -25,4 +25,7 @@ normal text
 2. List 2
 
 ![GitHub Logo](https://i.ytimg.com/vi/49HTIoCccDY/maxresdefault.jpg)
-<img src="https://i.ytimg.com/vi/49HTIoCccDY/maxresdefault.jpg" height=200 width=200>
+<img src="https://i.ytimg.com/vi/49HTIoCccDY/maxresdefault.jpg" height=200 width=200><br>
+[My site](https://nageswar.pythonanywhere.com)<br>
+[codegnan blog](https://b1og.pythonanywhere.com)<br>
+<a href="https://www.github.com">github</a>
