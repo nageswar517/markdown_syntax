@@ -24,5 +24,5 @@ normal text
 1. List 1
 2. List 2
 
-![GitHub Logo]()
-Format: ![Alt Text](url)
+![GitHub Logo](https://i.ytimg.com/vi/49HTIoCccDY/maxresdefault.jpg)
+<img src="https://i.ytimg.com/vi/49HTIoCccDY/maxresdefault.jpg" height=200 width=200>
