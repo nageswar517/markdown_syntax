@@ -29,3 +29,33 @@ normal text
 [My site](https://nageswar.pythonanywhere.com)<br>
 [codegnan blog](https://b1og.pythonanywhere.com)<br>
 <a href="https://www.github.com">github</a>
+
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+S.no|name|mobile
+----|----|------
+1|s|234
+2|d|34
+
+```python
+def add(a,b):
+  return a+b
+```
+```java
+public class hai{
+  public void main(String[] args){
+     System.out.println("hi")
+  }
+}
+```
+```bash
+touch hello.txt
+```
+- [x] udik
+- [ ] dnckd
+:smiley:
+:+1:
